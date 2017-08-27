@@ -18,4 +18,4 @@ install:
 
 # command to run tests
 script: nosetests qutip
- #2017-08-27 20:13:00 modified at 0 #2017-08-27 20:13:05 modified at 1
+ #2017-08-27 20:13:00 modified at 0 #2017-08-27 20:13:05 modified at 1 #2017-08-27 20:13:09 modified at 2
