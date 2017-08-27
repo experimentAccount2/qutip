@@ -24,4 +24,4 @@ script:
 after_success:
     - if [[ $TRAVIS_PYTHON_VERSION == '3.4' ]]; then
           coveralls;
-      fi #2017-08-27 19:27:39 modified at 0 #2017-08-27 19:27:43 modified at 1 #2017-08-27 19:27:48 modified at 2
+      fi #2017-08-27 19:27:39 modified at 0 #2017-08-27 19:27:43 modified at 1 #2017-08-27 19:27:48 modified at 2 #2017-08-27 19:27:52 modified at 3
