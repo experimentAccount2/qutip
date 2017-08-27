@@ -68,4 +68,4 @@ script:
 after_success:
     - if [[ $TRAVIS_PYTHON_VERSION == '3.6' ]] && [[ $CC == 'gcc' ]] && [[ "${OPENMP}" == "1" ]]; then
           coveralls;
-      fi
+      fi #2017-08-27 17:42:19 modified at 0
